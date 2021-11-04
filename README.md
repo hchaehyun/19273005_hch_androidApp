@@ -6,6 +6,9 @@
 <img width="" height="" src="./10주차/10-2.png"></img>
 <img width="" height="" src="./10주차/10-3.png"></img>
 <img width="" height="" src="./10주차/10-4.png"></img>
+<img width="" height="" src="./10주차/10-5.png"></img>
+<img width="" height="" src="./10주차/10-6.png"></img>
+<img width="" height="" src="./10주차/10-7.png"></img>
   
 ### 2주차 과제
 
